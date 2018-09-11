@@ -1,0 +1,4 @@
+<logme>
+    <username>admin</username>
+    <password>pass</password>
+</logme>
